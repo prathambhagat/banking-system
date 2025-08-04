@@ -7,9 +7,13 @@ CREATE DATABASE database_name;
 Created tables: Customer,Branch, Account, Loan, Transaction, Employee using
 <br>
 CREATE TABLE table_name ( 
+<br>
                          Column_name1 datatype(datasize),
+                         <br>
                          Column_name2 datatype(datasize)
+                         <br>
                          ....
+                         <br>
                              );
 <br>
 Define primary key and foreign key to show relationship between tables.
