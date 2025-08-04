@@ -4,7 +4,7 @@ Created database for banking system using
 <br>
 CREATE DATABASE database_name;
 <br>
-Created tables: Customer,Branch, Account, Loan, Transaction, Employee used
+Created tables: Customer,Branch, Account, Loan, Transaction, Employee using
 <br>
 CREATE TABLE table_name ( 
                          Column_name1 datatype(datasize),
