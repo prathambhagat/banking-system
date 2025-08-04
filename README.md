@@ -18,5 +18,4 @@ CREATE TABLE table_name (
                              );
 <br>
 Define primary key and foreign key to show relationship between tables.
-<br>
-Created ER diagram using MYSQL Workbench 
+Created ER diagram using MYSQL Workbench.
