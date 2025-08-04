@@ -1,6 +1,6 @@
 SQL Task 1
 <br>
-Installed and setup MYSQL workbench then 
+Installed and setup MYSQL Workbench then 
 created database for banking system using
 <br>
 CREATE DATABASE database_name;
