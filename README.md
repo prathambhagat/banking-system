@@ -11,7 +11,7 @@ CREATE TABLE table_name (
 <br>
                          Column_name1 datatype(datasize),
                          <br>
-                         Column_name2 datatype(datasize)
+                         Column_name2 datatype(datasize),
                          <br>
                          ....
                          <br>
